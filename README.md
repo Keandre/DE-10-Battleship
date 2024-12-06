@@ -41,3 +41,4 @@ If needed, reconfigure the PLL to generate the correct clock frequencies:
    pll pll_inst (.inclk0(MAX10_CLK1_50), .c0(pixel_clk));`
    ```
 ## Acknowledgements
+I acknowledge the hard work of all my teammates who helped make this possible, as well as EECS3216 for teaching me what's required in order to accomplish this task.
