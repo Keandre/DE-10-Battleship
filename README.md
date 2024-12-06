@@ -42,3 +42,6 @@ If needed, reconfigure the PLL to generate the correct clock frequencies:
    ```
 ## Acknowledgements
 I acknowledge the hard work of all my teammates who helped make this possible, as well as EECS3216 for teaching me what's required in order to accomplish this task.
+
+## Extra - Figma Designs
+[View BattleShip Figma Design](https://embed.figma.com/design/RYyQckCp7aWO6xDYyBQMZ3/BattleShip?node-id=0-1&embed-host=share)
