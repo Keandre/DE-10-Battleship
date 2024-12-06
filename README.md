@@ -1,6 +1,3 @@
-# DE-10-Battleship
-Battleship implementation using VGA, the accelerometer and microphone input.
-
 # DE-10 Battleship
 
 A single-player version of the classic Battleship game implemented on the DE10-Lite FPGA using SystemVerilog. Features include VGA-based visual output, accelerometer-based cursor control, and microphone-activated commands.
